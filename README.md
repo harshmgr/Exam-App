@@ -3,41 +3,37 @@
 #### The Online Examination System will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator. ![image](https://user-images.githubusercontent.com/40995887/124512866-1261ec00-ddf7-11eb-8423-e979cce675aa.png)
 
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application) [![GitHub license](https://img.shields.io/github/license/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application/blob/master/LICENSE/)
 
 ## Abstract
 
-![Library Management System](https://img.shields.io/badge/library--management-system-orange.svg?style=flat-square)
-![DBMS Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg?style=flat-square)
-![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg?style=flat-square)
+![Online Examination Application](https://img.shields.io/badge/Examination-Application-lightgrey)
+![MCA Project](https://img.shields.io/badge/MCA-Project-blue)
+![Open Source](https://img.shields.io/badge/open--source-programming-ff69b4.svg?style=flat-square)
 
-Manual process of keeping student records, book records, account details, managing employee is very difficult. There are
-various problems also faced by the student in library such as finding any particular book, information whether book is
-available or not, for what time this book will be available, searching of books using ISBN number etc. To eliminate this
-manual system, **Library Management System** has been developed.
+Online examination helps students of Schools /Colleges to offer a quick and easy way to appear for the exam. It also
+provides the results immediately after the exam. The students has to enter valid user id and password to attend the
+exam. This examination project provides time limit to finish the exam. The user can see their results after completing
+the exam.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)]() [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-> **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To download the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
+> **You can download the report [here](). To download the presentation, [click here]().**
 
-> **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).**
+> **You can check the screenshots of User Interface [here]().**
 
 ## Core Features
 
 ![admin](https://img.shields.io/badge/admin-login-teal.svg?style=flat-square)
-![search](https://img.shields.io/badge/seacrh-books-yellowgreen.svg?style=flat-square)
-![issue](https://img.shields.io/badge/issue-books-ff69b4.svg?style=flat-square)
+![Exam](https://img.shields.io/badge/Give-Exam-maroon)
+![Result](https://img.shields.io/badge/Result-Display-blue)
 ![member](https://img.shields.io/badge/add-member-dodgerblue.svg?style=flat-square)
-![add](https://img.shields.io/badge/add-books-orange.svg?style=flat-square)
+![add](https://img.shields.io/badge/Add-Quizzes-sky)
 
-- **Searching** of books
-- **Issuing** and **returning** books
-- Check fines(if any)
-- Librarian can read information about any member
-- Librarian can track the books issued by a particular student
-- Librarian can **add/remove any member**(student).
-- Librarian can **add/delete books**
-- Librarian can update the availability status of the books
+- It reduces the time of taking examinations of the Students manually.
+- The system handles all the operations, that includes name that given exam.
+- Allow students to see or display his answers after the exam is finish.
+- The type of questions is only multiple choice or true and false.
 
 ## Additional Features
 
@@ -45,13 +41,9 @@ manual system, **Library Management System** has been developed.
 
 - Displaying all members records.
 
-- Displaying all books records.
+- Displaying all Quiz records.
 
-- Update Book Records.
-
-- Delete Book Records
-
-- Add Book Records
+- Add Quiz
 
 - Add Member/Student Records
 
@@ -62,22 +54,22 @@ manual system, **Library Management System** has been developed.
 ## Modules
 
 - Admin login
-- Search Books
-- Add and Update Books
+- Member login
+- Add and Update Members
 - Add and Remove Members
-- Issue Books
+- Take Exams
 
 ## Technology Stack Used
 
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square)
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
-![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php&style=flat-square)
-![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square)
+![JAVA]()
+![CSS]()
+![JavaScript]()
+![PHP]()
+![MYSQL]()
 
-- Front End - **HTML**, **CSS**, **JavaScript**
-- Back End - **PHP**
-- Database - **MySql**
+- Front End - **JavaFx**, **CSS**
+- Back End - **JAVA**
+- Database - **SQLite**
 
 ## Requirements
 
