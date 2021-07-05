@@ -152,7 +152,7 @@ public class Student {
             Connection connection = DriverManager.getConnection(connectionUrl);
             PreparedStatement ps = connection.prepareStatement(query);
             boolean b = ps.execute();
-            System.out.println("models.Student.createTable()");
+            System.out.println("models.Student.createTable() is creating Table");
             System.out.println(b);
 
         } catch (Exception ex) {
@@ -163,17 +163,15 @@ public class Student {
     // save student
 
     public Student save(){
-        String raw = "INSERT into students (%s , %s , %s , %s , %s ,%s )\n" +
-                "values ( ? , ? , ? , ? , ? , ?);";
-
-        String query = String.format(raw ,
-                MetaData.FIRST_NAME ,
-                MetaData.LAST_NAME ,
-                MetaData.MOBILE ,
-                MetaData.EMAIL ,
-                MetaData.PASSWORD ,
+        String raw = "INSERT into students (%s , %s , %s , %s , %s ,%s )\n" + "values ( ? , ? , ? , ? , ? , ?);";
+        String query = String.format(raw,
+                MetaData.FIRST_NAME,
+                MetaData.LAST_NAME,
+                MetaData.MOBILE,
+                MetaData.EMAIL,
+                MetaData.PASSWORD,
                 MetaData.GENDER
-                );
+        );
         String connectionUrl = "jdbc:sqlite:quiz.db";
         try
         {
@@ -276,14 +274,13 @@ public class Student {
 
     public void login() throws SQLException , ClassNotFoundException , LoginException{
 
-        String query = String.format("select %s , %s , %s, %s , %s " +
-                        " from %s where %s = ? and %s = ?;" ,
-                MetaData.ID ,
-                MetaData.FIRST_NAME ,
-                MetaData.LAST_NAME ,
-                MetaData.MOBILE ,
-                MetaData.GENDER ,
-                MetaData.TABLE_NAME ,
+        String query = String.format("select %s , %s , %s, %s , %s " + " from %s where %s = ? and %s = ?;",
+                MetaData.ID,
+                MetaData.FIRST_NAME,
+                MetaData.LAST_NAME,
+                MetaData.MOBILE,
+                MetaData.GENDER,
+                MetaData.TABLE_NAME,
                 MetaData.EMAIL,
                 MetaData.PASSWORD
         );

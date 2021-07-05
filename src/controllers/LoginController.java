@@ -36,11 +36,11 @@ public class LoginController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
-        this.studentEmail.setText("dee@gmail.com");
-        this.studentPassword.setText("123456789");
+        this.studentEmail.setText("harsh@gmail.com");
+        this.studentPassword.setText("12345678");
         this.adminEmail.setText("admin@gmail.com");
         this.adminPassword.setText("123456");
-        
+
     }    
 
     @FXML

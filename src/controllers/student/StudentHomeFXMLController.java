@@ -1,5 +1,6 @@
 package controllers.student;
 
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.scene.Parent;
@@ -13,7 +14,9 @@ public class StudentHomeFXMLController implements Initializable {
     public Tab dashboard;
     public Tab allQuizzes;
     public Tab attempedQuizzes;
-    private Student student ;
+    private Student student;
+    @FXML
+    public Tab logout;
 
 
     public void setStudent(Student student) {
@@ -21,10 +24,21 @@ public class StudentHomeFXMLController implements Initializable {
 
         setAllQuizzesScreen();
         setAttempedQuizzesScreen();
+        Logout();
+    }
+
+    private void Logout() {
+        try {
+            Parent log = FXMLLoader.load(getClass()
+                    .getResource("/fxml/LogoutFXML.fxml"));
+            logout.setContent(log);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
     }
 
-    private void setAllQuizzesScreen(){
+    private void setAllQuizzesScreen() {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(getClass().
                     getResource("/fxml/student/StudentAllQuizzes.fxml"));
@@ -55,7 +69,6 @@ public class StudentHomeFXMLController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-
 
     }
 }

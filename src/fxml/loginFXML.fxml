@@ -3,29 +3,36 @@
 <?import com.jfoenix.controls.JFXTabPane?>
 <?import javafx.geometry.*?>
 <?import javafx.scene.control.*?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
-<AnchorPane id="AnchorPane" prefHeight="472.0" prefWidth="706.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.LoginController">
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" id="AnchorPane" prefHeight="397.0" prefWidth="706.0"
+            xmlns="http://javafx.com/javafx/8.0.171" fx:controller="controllers.LoginController">
    <children>
-      <JFXTabPane AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <JFXTabPane AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                  AnchorPane.topAnchor="0.0">
          <tabs>
             <Tab fx:id="Student" text="Student">
-              <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0"
+                              style="-fx-background-color: #fff;">
                      <children>
-                        <BorderPane layoutY="25.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
+                        <BorderPane layoutY="25.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                    AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
                            <left>
-                              <VBox prefHeight="410.0" prefWidth="345.0">
+                              <VBox prefHeight="410.0" prefWidth="345.0" style="-fx-background-color: #fff;">
                                  <children>
-                                    <Label text="Email">
+                                    <Label text="Username" textFill="#362323">
                                        <VBox.margin>
-                                          <Insets left="20.0" right="20.0" top="10.0" />
+                                          <Insets left="20.0" right="20.0" top="10.0"/>
                                        </VBox.margin>
                                        <font>
-                                          <Font size="15.0" />
+                                          <Font size="15.0"/>
                                        </font>
                                     </Label>
-                                    <TextField fx:id="studentEmail" prefHeight="44.0" prefWidth="285.0" promptText="Email">
+                                    <TextField fx:id="studentEmail" prefHeight="44.0" prefWidth="285.0"
+                                               promptText="Email">
                                        <VBox.margin>
                                           <Insets left="20.0" right="20.0" top="10.0" />
                                        </VBox.margin>
@@ -49,15 +56,17 @@
                                           <Font size="15.0" />
                                        </font>
                                     </PasswordField>
-                                    <Button fx:id="studentLoginButton" alignment="CENTER" mnemonicParsing="false" onAction="#loginStudent" prefHeight="25.0" prefWidth="104.0" text="Login">
+                                    <Button fx:id="studentLoginButton" alignment="CENTER" mnemonicParsing="false"
+                                            onAction="#loginStudent" prefHeight="44.0" prefWidth="261.0" text="LOGIN"
+                                            textAlignment="CENTER">
                                        <padding>
-                                          <Insets bottom="5.0" top="5.0" />
+                                          <Insets bottom="5.0" top="5.0"/>
                                        </padding>
                                        <VBox.margin>
-                                          <Insets left="20.0" right="20.0" top="15.0" />
+                                          <Insets left="30.0" right="30.0" top="30.0"/>
                                        </VBox.margin>
                                        <font>
-                                          <Font size="15.0" />
+                                          <Font size="23.0"/>
                                        </font>
                                     </Button>
                                  </children>
@@ -69,14 +78,30 @@
                            <right>
                               <VBox prefHeight="410.0" prefWidth="340.0" BorderPane.alignment="CENTER">
                                  <children>
-                                    <Label prefHeight="306.0" prefWidth="344.0" text="Welcome To My Quiz Application" textAlignment="CENTER" textFill="#358551" wrapText="true">
-                                       <font>
-                                          <Font name="Baskerville Old Face" size="58.0" />
-                                       </font>
-                                    </Label>
+                                    <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                                       <children>
+                                          <ImageView fitHeight="334.0" fitWidth="361.0" layoutX="-42.0" layoutY="-21.0"
+                                                     pickOnBounds="true" preserveRatio="true"
+                                                     AnchorPane.bottomAnchor="-113.0" AnchorPane.leftAnchor="0.0"
+                                                     AnchorPane.rightAnchor="21.0" AnchorPane.topAnchor="-21.0">
+                                             <image>
+                                                <Image url="@../images/Login.png"/>
+                                             </image>
+                                          </ImageView>
+                                       </children>
+                                    </AnchorPane>
                                  </children>
                               </VBox>
                            </right>
+                           <bottom>
+                              <Text fill="#083339" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0"
+                                    text="Welcome To Online Exam Management System" textAlignment="CENTER"
+                                    wrappingWidth="619.13671875" BorderPane.alignment="CENTER">
+                                 <font>
+                                    <Font size="26.0"/>
+                                 </font>
+                              </Text>
+                           </bottom>
                         </BorderPane>
                      </children>
                   </AnchorPane>
@@ -84,17 +109,20 @@
             </Tab>
             <Tab text="Admin">
               <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
-                     <children>
-                        <BorderPane layoutY="25.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
-                           <left>
-                              <VBox minHeight="-Infinity" minWidth="-Infinity" prefHeight="410.0" prefWidth="330.0" BorderPane.alignment="CENTER">
-                                 <children>
-                                    <Label text="Email">
-                                       <VBox.margin>
-                                          <Insets left="10.0" right="10.0" top="10.0" />
-                                       </VBox.margin>
-                                       <font>
+                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0"
+                             style="-fx-background-color: #fff;">
+                    <children>
+                       <BorderPane layoutY="25.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                   AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
+                          <left>
+                             <VBox minHeight="-Infinity" minWidth="-Infinity" prefHeight="410.0" prefWidth="330.0"
+                                   BorderPane.alignment="CENTER">
+                                <children>
+                                   <Label text="Email">
+                                      <VBox.margin>
+                                         <Insets left="10.0" right="10.0" top="10.0"/>
+                                      </VBox.margin>
+                                      <font>
                                           <Font size="15.0" />
                                        </font>
                                     </Label>
@@ -122,17 +150,18 @@
                                           <Font size="15.0" />
                                        </font>
                                     </PasswordField>
-                                    <Button fx:id="adminLoginButton" alignment="CENTER" mnemonicParsing="false" onAction="#loginAdmin" prefHeight="25.0" prefWidth="104.0" text="Login">
-                                       <VBox.margin>
-                                          <Insets left="10.0" right="10.0" top="20.0" />
-                                       </VBox.margin>
-                                       <padding>
-                                          <Insets bottom="5.0" top="5.0" />
-                                       </padding>
-                                       <font>
-                                          <Font size="15.0" />
-                                       </font>
-                                    </Button>
+                                   <Button fx:id="adminLoginButton" alignment="CENTER" mnemonicParsing="false"
+                                           onAction="#loginAdmin" prefHeight="31.0" prefWidth="275.0" text="Login">
+                                      <VBox.margin>
+                                         <Insets left="30.0" right="30.0" top="30.0"/>
+                                      </VBox.margin>
+                                      <padding>
+                                         <Insets bottom="5.0" top="5.0"/>
+                                      </padding>
+                                      <font>
+                                         <Font size="15.0"/>
+                                      </font>
+                                   </Button>
                                  </children>
                                  <opaqueInsets>
                                     <Insets left="20.0" right="20.0" />
@@ -145,9 +174,20 @@
                            <right>
                               <VBox prefHeight="410.0" prefWidth="321.0" BorderPane.alignment="CENTER">
                                  <children>
-                                    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="123.0" prefWidth="358.0" text="ADMIN PANEL" textFill="#608744" textOverrun="CENTER_ELLIPSIS">
+                                    <ImageView fitHeight="231.0" fitWidth="303.0" pickOnBounds="true"
+                                               preserveRatio="true">
+                                       <image>
+                                          <Image url="@../images/admin.png"/>
+                                       </image>
+                                       <VBox.margin>
+                                          <Insets left="50.0"/>
+                                       </VBox.margin>
+                                    </ImageView>
+                                    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="62.0"
+                                           prefWidth="321.0" text="ADMIN PANEL" textFill="#608744"
+                                           textOverrun="CENTER_ELLIPSIS">
                                        <font>
-                                          <Font name="Arial Rounded MT Bold" size="37.0" />
+                                          <Font name="Arial Rounded MT Bold" size="37.0"/>
                                        </font>
                                     </Label>
                                  </children>

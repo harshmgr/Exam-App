@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "isActive": false,
+    "isActive": true,
     "age": 28,
     "firstName": "Harsh",
     "lastName": "Kumar",
@@ -58,6 +58,6 @@
     "phone": 8635602385,
     "address": "684 Holmes Lane, Cavalero, Minnesota, 2376",
     "about": "Occaecat esse anim voluptate et est fugiat dolor eiusmod minim voluptate aliqua. Occaecat sit esse deserunt magna deserunt. Do proident qui officia id magna et labore anim eiusmod. Esse do anim reprehenderit cupidatat dolore. Id ad tempor irure nostrud esse proident eu. Proident velit nulla aliqua minim consectetur ullamco exercitation culpa tempor ipsum commodo ad sit. Qui labore enim ea tempor consequat aliqua et voluptate dolore."
-  },
+  }
 
 ]

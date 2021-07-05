@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <?import javafx.geometry.*?>
 <?import javafx.scene.chart.PieChart?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.student.AttempedQuizListScreenFXMLController">
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="400.0" prefWidth="600.0"
+            xmlns="http://javafx.com/javafx/8.0.171"
+            fx:controller="controllers.student.AttempedQuizListScreenFXMLController">
    <children>
-      <SplitPane dividerPositions="0.29797979797979796" prefHeight="160.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-        <items>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+      <SplitPane dividerPositions="0.29797979797979796" prefHeight="160.0" prefWidth="200.0"
+                 AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                 AnchorPane.topAnchor="0.0">
+         <items>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                <children>
-                  <ScrollPane fitToHeight="true" fitToWidth="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <ScrollPane fitToHeight="true" fitToWidth="true" AnchorPane.bottomAnchor="0.0"
+                              AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                      <content>
                         <VBox fx:id="list" prefHeight="200.0" prefWidth="100.0" spacing="10.0">
                            <padding>
-                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
                            </padding>
                         </VBox>
                      </content>
@@ -40,15 +44,15 @@
                                     <Font size="16.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="total" prefWidth="150.0" text="25">
+                              <Label fx:id="total" prefWidth="150.0" text="NA">
                                  <padding>
-                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
                                  </padding>
                                  <HBox.margin>
-                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0"/>
                                  </HBox.margin>
                                  <font>
-                                    <Font size="16.0" />
+                                    <Font size="16.0"/>
                                  </font>
                               </Label>
                            </children>
@@ -67,15 +71,15 @@
                                     <Font size="16.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="Aq" prefWidth="150.0" text="20">
+                              <Label fx:id="Aq" prefWidth="150.0" text="NA">
                                  <padding>
-                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
                                  </padding>
                                  <HBox.margin>
-                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0"/>
                                  </HBox.margin>
                                  <font>
-                                    <Font size="16.0" />
+                                    <Font size="16.0"/>
                                  </font>
                               </Label>
                            </children>
@@ -94,15 +98,15 @@
                                     <Font size="16.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="ra" prefWidth="150.0" text="15">
+                              <Label fx:id="ra" prefWidth="150.0" text="NA">
                                  <padding>
-                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
                                  </padding>
                                  <HBox.margin>
-                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0"/>
                                  </HBox.margin>
                                  <font>
-                                    <Font size="16.0" />
+                                    <Font size="16.0"/>
                                  </font>
                               </Label>
                            </children>
@@ -121,15 +125,15 @@
                                     <Font size="16.0" />
                                  </font>
                               </Label>
-                              <Label fx:id="wa" prefWidth="150.0" text="5">
+                              <Label fx:id="wa" prefWidth="150.0" text="NA">
                                  <padding>
-                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
                                  </padding>
                                  <HBox.margin>
-                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0" />
+                                    <Insets bottom="2.0" left="2.0" right="2.0" top="2.0"/>
                                  </HBox.margin>
                                  <font>
-                                    <Font size="16.0" />
+                                    <Font size="16.0"/>
                                  </font>
                               </Label>
                            </children>
