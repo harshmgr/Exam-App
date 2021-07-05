@@ -1,6 +1,7 @@
-# Online Library Management System
+# Online Examination Application
 
-#### An interactive web portal for automating various manual processes done by librarian.
+#### The Online Examination System will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator. ![image](https://user-images.githubusercontent.com/40995887/124512866-1261ec00-ddf7-11eb-8423-e979cce675aa.png)
+
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
 
