@@ -9,7 +9,6 @@
 
 ![Online Examination Application](https://img.shields.io/badge/Examination-Application-lightgrey)
 ![MCA Project](https://img.shields.io/badge/MCA-Project-blue)
-![Open Source](https://img.shields.io/badge/open--source-programming-ff69b4.svg?style=flat-square)
 
 Online examination helps students of Schools /Colleges to offer a quick and easy way to appear for the exam. It also
 provides the results immediately after the exam. The students has to enter valid user id and password to attend the
