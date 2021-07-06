@@ -1,8 +1,6 @@
 # Online Examination Application
 
-#### The Online Examination System will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator. ![image](https://user-images.githubusercontent.com/40995887/124512866-1261ec00-ddf7-11eb-8423-e979cce675aa.png)
-
-
+#### The Online Examination System will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator.
 [![GitHub repo size](https://img.shields.io/github/repo-size/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application) [![GitHub license](https://img.shields.io/github/license/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application/blob/master/LICENSE/)
 
 ## Abstract
@@ -15,9 +13,9 @@ provides the results immediately after the exam. The students has to enter valid
 exam. This examination project provides time limit to finish the exam. The user can see their results after completing
 the exam.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)]() [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-> **You can download the report [here](). To download the presentation, [click here]().**
+> **You can download the report [here](). To download the presentation, [click here](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx).**
 
 > **You can check the screenshots of User Interface [here]().**
 
