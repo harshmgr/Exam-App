@@ -61,11 +61,10 @@ the exam.
 
 ## Technology Stack Used
 
-![JAVA]()
-![CSS]()
-![JavaScript]()
-![PHP]()
-![MYSQL]()
+![JAVA](https://img.shields.io/badge/backend-java-blue.svg?logo=java&style=flat-square)
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-javafx-ff69b4.svg?logo=java&style=flat-square)
+![SQLite](https://img.shields.io/badge/database-SQLite-lightgray.svg?logo=sqlite&logoColor=white&style=flat-square)
 
 - Front End - **JavaFx**, **CSS**
 - Back End - **JAVA**
@@ -73,22 +72,23 @@ the exam.
 
 ## Requirements
 
-[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://vinitshahdeo.github.io/Library-Management-System/)
+[![JAVA](https://img.shields.io/static/v1.svg?label=Source%20Code&message=java&logo=java&style=social)](https://github.com/harshmgr/Examination-Application)
 
-The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
+The source code of this project is written in **JAVA**. So, you'll require **JAVA JDK 1.8** to run this project.
 
 ## Installing
 
-[![wamp](https://img.shields.io/badge/wamp-server-red.svg?style=flat-square)](http://www.wampserver.com/en/) [![xampp](https://img.shields.io/badge/xampp-server-blue.svg?style=flat-square)](https://www.apachefriends.org/download.html) [![mamp](https://img.shields.io/badge/mamp-server-lightgrey.svg?style=flat-square)](https://www.mamp.info/en/)
+[![JDK](https://img.shields.io/badge/jdk-1.8-red.svg?style=flat-square)](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html) [![javafx](https://img.shields.io/badge/java-fxml-blue.svg?style=flat-square)](https://gluonhq.com/products/javafx/) [![mamp](https://img.shields.io/badge/scenebuilder-8.5.0-lightyellow.svg?style=flat-square)](https://gluonhq.com/products/scene-builder/#download)
 
-- Download [WAMP](http://www.wampserver.com/en/)
-- Download [XAMPP](https://www.apachefriends.org/download.html)
-- Download [MAMP](https://www.mamp.info/en/)
+- Download [JAVA 1.8](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
+- Download [JAVAFX](https://gluonhq.com/products/javafx/)
+- Download [SCENE BUILDER 8.5.0](https://gluonhq.com/products/scene-builder/#download)
 
 ## How to run?
 
-1. Download this repo and extract it in your **www/htdocs** directory.
-2. Import the [database] from **db** folder.
+1. Download this repo and extract it in your directory.
+2. Open the project in your IntelliJ.
+2. .
 3. Configure `dbcon.php`
 4. Run **`localhost/{YOUR FOLDER NAME}`**
 
