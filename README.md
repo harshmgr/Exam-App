@@ -93,10 +93,10 @@ The source code of this project is written in **JAVA**. So, you'll require **JAV
 5. The default User Id of admin is **admin** and password is **123456**
 ## Need help?
 
-```javascript
+```java
 
   if (needHelp === true) {
-     var emailId = "kumarharsh8549@gmail.com";
+     String emailId = "kumarharsh8549@gmail.com";
      // email is the best way to reach out to me.
      sendEmail(emailId);
   }
