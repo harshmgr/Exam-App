@@ -89,7 +89,7 @@ The source code of this project is written in **JAVA**. So, you'll require **JAV
 2. Open the project in your IntelliJ.
 3. Extract the [JAR Files](https://github.com/harshmgr/Examination-Application/blob/master/jar.zip) and add to libraries
    of the project.
-4. Run **`Main/{YOUR FOLDER NAME}`** in IntelliJ
+4. Run **`{YOUR FOLDER NAME}/Main`** in IntelliJ IDE.
 5. The default User Id of admin is **admin** and password is **123456**
 ## Need help?
 
