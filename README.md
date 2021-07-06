@@ -125,28 +125,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/harshkumar001/).
 **GPL &copy; [HARSH KUMAR](https://github.com/harshmgr/Examination-Application/LICENSE)**
 
 Thank you for being here!
-```bash
 
-   ____ _           _   _                   
-  / ___| | __ _  __| | | |_ ___             
- | |  _| |/ _` |/ _` | | __/ _ \            
- | |_| | | (_| | (_| | | || (_) |           
-  \____|_|\__,_|\__,_|  \__\___/            
-  ___  ___  ___                             
- / __|/ _ \/ _ \                            
- \__ \  __/  __/                            
- |___/\___|\___|      _                   _ 
-  _   _  ___  _   _  | |__   ___ _ __ ___| |
- | | | |/ _ \| | | | | '_ \ / _ \ '__/ _ \ |
- | |_| | (_) | |_| | | | | |  __/ | |  __/_|
-  \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)
-  |___/                                     
-
-
-```
-
-**Share your story([kumarharsh8549@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your
-mini/course project. I will be more than happy to know how does this project helped you.
+**Share your story([kumarharsh8549@gmail.com](https://mail.google.com/mail/))** 
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kumarharsh8549@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
