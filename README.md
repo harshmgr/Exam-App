@@ -121,7 +121,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/harshkumar001/).
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/harshmgr/Examination-Application/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@harsh.mgr&logo=github&style=social)](https://github.com/vinitshahdeo)
+[![GitHub license](https://img.shields.io/github/license/harshmgr/Examination-Application.svg?style=social&logo=github)](https://github.com/harshmgr/Examination-Application/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@harshmgr&logo=github&style=social)](https://github.com/harshmgr)
 
 **GPL &copy; [HARSH KUMAR](https://github.com/harshmgr/Examination-Application/LICENSE)**
 
