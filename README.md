@@ -107,9 +107,9 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/harshkumar001/).
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@harsh.arya.mgr&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/harsh.arya.mgr) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@harshkumar001&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/harshkumar001/)
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)]() [![SYNOPSIS](https://img.shields.io/static/v1.svg?label=SYNOPSIS&message=Report&logo=microsoft&style=social)]()
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx) [![SYNOPSIS](https://img.shields.io/static/v1.svg?label=SYNOPSIS&message=Report&logo=microsoft&style=social)]()
 
-- [Download]()
+- [Download](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx)
   Presnetation
 - [Download]()
   SYNOPSIS
