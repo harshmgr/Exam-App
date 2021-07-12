@@ -126,7 +126,7 @@ Thank you for being here!
 
 **Share your story([kumarharsh8549@gmail.com](https://mail.google.com/mail/))** 
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kumarharsh8549@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kumarharsh8549@gmail.com&color=red&logo=gmail&style=social)](mailto:kumarharsh8549@gmail.com?subject=I%20need%20help%20regarding%20project)
 
 ------
 
