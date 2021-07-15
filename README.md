@@ -13,11 +13,15 @@ provides the results immediately after the exam. The students has to enter valid
 exam. This examination project provides time limit to finish the exam. The user can see their results after completing
 the exam.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Project%20Presentation.pdf) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-> **You can download the report [here](). To download the presentation, [click here](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx).**
+> **To download the presentation, [click here](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx).**
 
-> **You can check the screenshots of User Interface [here]().**
+> **You can check the screenshots of User Interface**
+![Login Screen](src/images/ScreenShots/img.png "HomePage")
+![Quiz Add](src/images/ScreenShots/img_1.png "Add Quiz")
+![Add Student](src/images/ScreenShots/img_2.png "Student")
+![Result](src/images/ScreenShots/img_3.png "Student Result")
 
 ## Core Features
 
@@ -107,14 +111,13 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/harshkumar001/).
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@harsh.arya.mgr&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/harsh.arya.mgr) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@harshkumar001&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/harshkumar001/)
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx) [![SYNOPSIS](https://img.shields.io/static/v1.svg?label=SYNOPSIS&message=Report&logo=microsoft&style=social)]()
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Project%20Presentation.pdf) [![SYNOPSIS](https://img.shields.io/static/v1.svg?label=SYNOPSIS&message=Report&logo=microsoft&style=social)]()
 
-- [Download](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx)
+- [Download](https://github.com/harshmgr/Examination-Application/blob/master/Project%20Presentation.pdf)
   Presnetation
 - [Download]()
   SYNOPSIS
 
-> You can use [this](https://github.com/harshmgr/Examination-Application) project for the following courses :
 
 ## License
 
