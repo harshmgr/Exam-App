@@ -124,9 +124,9 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/harshkumar001/).
 
 Thank you for being here!
 
-**Share your story([kumarharsh8549@gmail.com](https://mail.google.com/mail/))** 
+Give Feedback on my Mail.
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kumarharsh8549@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=kumarharsh8549@gmail.com&color=red&logo=gmail&style=social)](https://github.com/harshmgr)
 
 ------
 

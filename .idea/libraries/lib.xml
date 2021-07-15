@@ -1,9 +1,7 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" />
       <root url="jar://$PROJECT_DIR$/../../../Java/jfoenix-8.0.5.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" />
       <root url="jar://$PROJECT_DIR$/../../controlsfx-8.40.11.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../fontawesomefx-8.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../java-json.jar!/" />
@@ -13,14 +11,12 @@
       <root url="jar://$PROJECT_DIR$/../../sqlite-jdbc-3.14.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" />
-      <root url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" />
       <root url="jar://$PROJECT_DIR$/../../java-json.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../sqlite-jdbc-3.7.2.jar!/" />
     </SOURCES>
-    <jarDirectory url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" recursive="false" />
-    <jarDirectory url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" recursive="false" />
-    <jarDirectory url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
-    <jarDirectory url="file://$PROJECT_DIR$/../../../Java/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../../sqlite-jdbc-3.14.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../sqlite-jdbc-3.7.2.jar!/" />
+    </excluded>
   </library>
 </component>
