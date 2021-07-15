@@ -10,54 +10,6 @@
     "phone": 7004899150,
     "address": "Bekapur Gola Road, Munger",
     "about": "Currently studying at DYPIMR"
-  },
-  {
-    "id": 1,
-    "isActive": false,
-    "age": 36,
-    "firstName": "Heather",
-    "lastName": "Donovan",
-    "password": 8835629237,
-    "email": "heather@gmail.com",
-    "phone": 9675992810,
-    "address": "928 Aberdeen Street, Greenbackville, Utah, 8368",
-    "about": "Aliqua aliqua eu enim consectetur laboris esse Lorem duis nisi id laborum. Aliquip proident ullamco magna eu nisi nisi laborum consequat cupidatat officia eiusmod. Duis minim sunt magna ad dolor eiusmod adipisicing id est culpa excepteur voluptate dolor. Anim voluptate eu occaecat ipsum consequat nulla. Id anim nostrud mollit amet dolor et ut elit. In sunt ut consequat sint esse consectetur adipisicing esse consequat minim tempor quis pariatur eu."
-  },
-  {
-    "id": 2,
-    "isActive": false,
-    "age": 35,
-    "firstName": "Eugenia",
-    "lastName": "Lambert",
-    "password": 9865435648,
-    "email": "eugenia@gmail.com",
-    "phone": 8534403917,
-    "address": "516 Jefferson Avenue, Salix, New Hampshire, 7743",
-    "about": "Minim consectetur ullamco non mollit ipsum aliquip quis consectetur mollit sunt in fugiat ex do. Ex ut amet commodo dolore ad nisi est pariatur. Aute deserunt aute ipsum laboris duis labore qui eiusmod."
-  },
-  {
-    "id": 3,
-    "isActive": true,
-    "age": 21,
-    "firstName": "Dee",
-    "lastName": "Curtis",
-    "password": 7724952543,
-    "email": "dee@gmail.com",
-    "phone": 9264403347,
-    "address": "638 Richmond Street, Courtland, Connecticut, 9308",
-    "about": "Culpa irure nulla sit do incididunt ullamco ex eu ea. Tempor magna officia do cillum ex dolor do esse exercitation esse occaecat incididunt elit mollit. Sunt voluptate dolor aute amet commodo et labore. Veniam dolor excepteur minim aliquip."
-  },
-  {
-    "id": 4,
-    "isActive": true,
-    "age": 37,
-    "firstName": "Esmeralda",
-    "lastName": "Cantu",
-    "password": 8735282496,
-    "email": "esmeralda@gmail.com",
-    "phone": 8635602385,
-    "address": "684 Holmes Lane, Cavalero, Minnesota, 2376",
-    "about": "Occaecat esse anim voluptate et est fugiat dolor eiusmod minim voluptate aliqua. Occaecat sit esse deserunt magna deserunt. Do proident qui officia id magna et labore anim eiusmod. Esse do anim reprehenderit cupidatat dolore. Id ad tempor irure nostrud esse proident eu. Proident velit nulla aliqua minim consectetur ullamco exercitation culpa tempor ipsum commodo ad sit. Qui labore enim ea tempor consequat aliqua et voluptate dolore."
   }
 
 ]
