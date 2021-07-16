@@ -1,21 +1,21 @@
-# Online Examination Application
+# Examination Application
 
-#### The Online Examination System will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator.
-[![GitHub repo size](https://img.shields.io/github/repo-size/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application) [![GitHub license](https://img.shields.io/github/license/harshmgr/Examination-Application)](https://github.com/harshmgr/Examination-Application/blob/master/LICENSE/)
+#### The Exam App will permit to take and give online examination and maintaining master information and generating various reports of test. The main users of the project are Student and System Administrator.
+[![GitHub repo size](https://img.shields.io/github/repo-size/harshmgr/Exam-App)](https://github.com/harshmgr/Exam-App) [![GitHub license](https://img.shields.io/github/license/harshmgr/Exam-App)](https://github.com/harshmgr/Exam-App/blob/master/LICENSE/)
 
 ## Abstract
 
-![Online Examination Application](https://img.shields.io/badge/Examination-Application-lightgrey)
+![Examination Application](https://img.shields.io/badge/Examination-Application-lightgrey)
 ![MCA Project](https://img.shields.io/badge/MCA-Project-blue)
 
-Online examination helps students of Schools /Colleges to offer a quick and easy way to appear for the exam. It also
+This Application will help students of Schools /Colleges to offer a quick and easy way to appear for the exam. It also
 provides the results immediately after the exam. The students has to enter valid user id and password to attend the
 exam. This examination project provides time limit to finish the exam. The user can see their results after completing
 the exam.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Examination-Application/blob/master/Project%20Presentation.pdf) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Exam-App/blob/master/Project%20Presentation.pdf) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-> **To download the presentation, [click here](https://github.com/harshmgr/Examination-Application/blob/master/Presentation.pptx).**
+> **To download the presentation, [click here](https://github.com/harshmgr/Exam-App/blob/master/Presentation.pptx).**
 
 > **You can check the screenshots of User Interface**
 ![Login Screen](src/images/ScreenShots/img.png "HomePage")
@@ -73,7 +73,7 @@ the exam.
 
 ## Requirements
 
-[![JAVA](https://img.shields.io/static/v1.svg?label=Source%20Code&message=java&logo=java&style=social)](https://github.com/harshmgr/Examination-Application)
+[![JAVA](https://img.shields.io/static/v1.svg?label=Source%20Code&message=java&logo=java&style=social)](https://github.com/harshmgr/Exam-App)
 
 The source code of this project is written in **JAVA**. So, you'll require **JAVA JDK 1.8** to run this project.
 
@@ -89,7 +89,7 @@ The source code of this project is written in **JAVA**. So, you'll require **JAV
 
 1. Download this repo and extract it in your directory.
 2. Open the project in your IntelliJ.
-3. Extract the [JAR Files](https://github.com/harshmgr/Examination-Application/blob/master/jar.zip) and add to libraries
+3. Extract the [JAR Files](https://github.com/harshmgr/Exam-App/blob/master/jar.zip) and add to libraries
    of the project.
 4. Run **`{YOUR FOLDER NAME}/Main`** in IntelliJ IDE.
 5. The default User Id of admin is **admin** and password is **123456**
