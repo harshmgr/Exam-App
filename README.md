@@ -15,7 +15,7 @@ the exam.
 
 [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/harshmgr/Exam-App/blob/master/Project%20Presentation.pdf) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-> **To download the presentation, [click here](https://github.com/harshmgr/Exam-App/blob/master/Presentation.pptx).**
+> **To download the presentation, [click here](https://github.com/harshmgr/Exam-App/blob/master/Project%20Presentation.pptx).**
 
 > **You can check the screenshots of User Interface**
 ![Login Screen](src/images/ScreenShots/img.png "HomePage")
