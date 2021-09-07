@@ -71,29 +71,6 @@ the exam.
 - Back End - **JAVA**
 - Database - **SQLite**
 
-## Requirements
-
-[![JAVA](https://img.shields.io/static/v1.svg?label=Source%20Code&message=java&logo=java&style=social)](https://github.com/harshmgr/Exam-App)
-
-The source code of this project is written in **JAVA**. So, you'll require **JAVA JDK 1.8** to run this project.
-
-## Installing
-
-[![JDK](https://img.shields.io/badge/jdk-1.8-red.svg?style=flat-square)](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html) [![javafx](https://img.shields.io/badge/java-fxml-blue.svg?style=flat-square)](https://gluonhq.com/products/javafx/) [![mamp](https://img.shields.io/badge/scenebuilder-8.5.0-lightyellow.svg?style=flat-square)](https://gluonhq.com/products/scene-builder/#download)
-
-- Download [JAVA 1.8](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
-- Download [JAVAFX](https://gluonhq.com/products/javafx/)
-- Download [SCENE BUILDER 8.5.0](https://gluonhq.com/products/scene-builder/#download)
-
-## How to run?
-
-1. Download this repo and extract it in your directory.
-2. Open the project in your IntelliJ.
-3. Extract the [JAR Files](https://github.com/harshmgr/Exam-App/blob/master/jar.zip) and add to libraries
-   of the project.
-4. Run **`{YOUR FOLDER NAME}/Main`** in IntelliJ IDE.
-5. The default User Id of admin is **admin** and password is **123456**
-## Need help?
 
 ```java
 
